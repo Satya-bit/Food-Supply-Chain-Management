@@ -8,6 +8,7 @@
 * Blockchain technology can be deployed in the management of food supply chain to trace the journey of a product.
 
 **=>Steps**
+
 1)Log in as an Admin.
 
 2)Register farmers, processing units, distributors and retailers (can be done only by the admin).
@@ -31,4 +32,11 @@
 ![image](https://github.com/Satya-bit/Food-Supply-Chain-Management/assets/70309925/f4a6162d-e86a-4910-b9b1-b498f3e97f83)
 
 ![image](https://github.com/Satya-bit/Food-Supply-Chain-Management/assets/70309925/a43c5122-89ab-4cb9-a078-47d11b5e2461)
+
+**=>Demo**
+
+
+https://github.com/Satya-bit/Food-Supply-Chain-Management/assets/70309925/e6ae3d39-a195-43d9-9278-4972c1a3e3bc
+
+
 
